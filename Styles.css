@@ -1,0 +1,13 @@
+body {
+background-color: white;
+  color: darkblue;
+}
+h1 {
+  color:lightblue;
+  font-family: cursive;
+  font-size: hsl(360, 100%, 100%);
+}
+
+p {
+  border: 2px solid orange;
+}
